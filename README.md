@@ -10,6 +10,10 @@ or simply match pictures on pages to certain events.
 Digging through the pictures on each page with the Cewe Fotobuch editor
 is a bit cumbersome, so this script does this for you.
 
+## Usage
+
+    python mcfdates.py path/to/fotobuch.mcf
+
 ## License
 
 MIT. See LICENSE file.

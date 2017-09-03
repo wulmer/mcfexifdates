@@ -10,6 +10,11 @@ or simply match pictures on pages to certain events.
 Digging through the pictures on each page with the Cewe Fotobuch editor
 is a bit cumbersome, so this script does this for you.
 
+## Requirements
+
+* lxml
+* pyexiv2
+
 ## Usage
 
     python mcfdates.py path/to/fotobuch.mcf
